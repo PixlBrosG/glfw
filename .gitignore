@@ -101,3 +101,9 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+bin/
+bin-int/
+*.vcxsln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
